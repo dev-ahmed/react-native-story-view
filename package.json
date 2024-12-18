@@ -1,5 +1,5 @@
 {
-  "name": "@vocana/react-native-story-view",
+  "name": "@dev.ahmed/react-native-story-view",
   "version": "1.0.1",
   "description": "React Native component to provide status/stories feature.",
   "main": "lib/index",
