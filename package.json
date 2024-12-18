@@ -8,8 +8,7 @@
   "contributors": [],
   "author": "Simform Solutions",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/SimformSolutionsPvtLtd/react-native-story-view"
+    "type": "git"
   },
   "keywords": [
     "react",
